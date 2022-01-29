@@ -1,2 +1,1 @@
-# test-repository
-Test repo for git
+This is just a test repository to work with Git commands.
