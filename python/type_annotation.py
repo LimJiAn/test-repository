@@ -18,6 +18,7 @@ class Solution:
 
 UserId = NewType('UserId', int)
 some_id = UserId(524313)
+test_id = UserId(123123)
 print('some_id', type(some_id))
 
 
